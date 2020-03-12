@@ -4,10 +4,10 @@ This file has the specification for the airport.
 
 ## Passengers
 
-as a user I can create a Passenger
-It can be created with name and passport number
-I can create 'Joana Thomson' with the Passport number 'B343123'
-I can create 'Birt Kuman' with the Passport number 'B13927'
+- As a user I can create a Passenger
+- It can be created with name and passport number
+- I can create 'Joana Thomson' with the Passport number 'B343123'
+- I can create 'Birt Kuman' with the Passport number 'B13927'
 
 ## Plane
 
@@ -25,9 +25,9 @@ As a User I can create a Plane with a plane number
 
 
 
-## AIRPORT exercise
+# AIRPORT exercise
 
-- learn this is a description.
+## Description.
 
 ## Installing
 
